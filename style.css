@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-size: 70px
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 70%;
+
+}
+
+.container {
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+.container2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
